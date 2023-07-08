@@ -1,2 +1,4 @@
 # python-oop
-The repository for Python OOP Study
+
+The repository for Python OOP Study.
+
